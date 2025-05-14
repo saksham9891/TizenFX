@@ -79206,6 +79206,22 @@ references:
   isSpec: "True"
   fullName: Tizen.Multimedia.Recorder.FileFormat
   nameWithType: Recorder.FileFormat
+- uid: Tizen.Multimedia.Recorder.Finalize
+  name: ~Recorder()
+  href: API13/api/Tizen.Multimedia.Recorder.html#Tizen_Multimedia_Recorder_Finalize
+  commentId: M:Tizen.Multimedia.Recorder.Finalize
+  name.vb: ''
+  fullName: Tizen.Multimedia.Recorder.~Recorder()
+  fullName.vb: ''
+  nameWithType: Recorder.~Recorder()
+  nameWithType.vb: ''
+- uid: Tizen.Multimedia.Recorder.Finalize*
+  name: ~Recorder
+  href: API13/api/Tizen.Multimedia.Recorder.html#Tizen_Multimedia_Recorder_Finalize_
+  commentId: Overload:Tizen.Multimedia.Recorder.Finalize
+  isSpec: "True"
+  fullName: Tizen.Multimedia.Recorder.~Recorder
+  nameWithType: Recorder.~Recorder
 - uid: Tizen.Multimedia.Recorder.GetDeviceState(Tizen.Multimedia.RecorderType)
   name: GetDeviceState(RecorderType)
   href: API13/api/Tizen.Multimedia.Recorder.html#Tizen_Multimedia_Recorder_GetDeviceState_Tizen_Multimedia_RecorderType_
